@@ -5,27 +5,10 @@
 	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
 </head>
 <body bgcolor="#C0C0C0" text="#000000" link="#FFFFFF" vlink="#FFFFFF" background="images/background.jpg">
-	<table border="0" cellpadding="5" width="1200" bgcolor="#D0F5C0">
+	<table border="0" cellpadding="5" style="width: 1200px; background-color: #D0F5C0; margin-left: auto; margin-right: auto;">
 		<tr>
 			<td>
-				<table border="0" cellspacing="3" width="100%">
-					<tr>
-						<td height="10" bgcolor="#000000"></td>
-					</tr>
-					<tr bgcolor="#FFFFFF">
-						<td height="40" align="center" bgcolor="#335423">
-							<div style="font:18px Arial;color:#FFFFFF"><i>CANOTIA: An Arizona journal publishing botanical and mycological papers</i></div>
-						</td>
-					</tr>
-					<tr>
-						<td height="10" bgcolor="#000000"></td>
-					</tr>
-				</table>
-			</td>
-		</tr>
-		<tr>
-			<td>
-			<?php include_once('menu_header.php'); ?>
+				<?php include_once('menu_header.php'); ?>
 			</td>
 		</tr>
 		<tr>
@@ -45,7 +28,7 @@
 								<b>Volume 14</b>
 							</div>
 							<div style="padding:5px 0px;background-color:#335423">
-								<ul><li><a href="volumes/vol14/Canotia14-Front-Cover-2.pdf" target="_blank">Cover</a></li></ul>
+								<ul><li><a href="volumes/vol14/Canotia14-Front-Cover.pdf" target="_blank">Cover</a></li></ul>
 							</div>
 							<div style="margin:20px 0px;padding:5px;background-color:#335423">
 								<ul>

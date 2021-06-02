@@ -1,3 +1,6 @@
+<style type="text/css">
+	p{ margin: 10px 0px }
+</style>
 <td width="200" align="center" valign="top" bgcolor="#335423">
 	<div style="margin-top:40px;font-size:17px;font:Arial">
 		<p><a href="volume1.php">Volume 1 (2005)</a></p>

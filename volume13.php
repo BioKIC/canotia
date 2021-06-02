@@ -1,34 +1,17 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-  <title>Canotia: Volume 13</title>
-  <meta http-equiv="content-type" content="text/html;charset=utf-8" />
+	<title>Canotia: Volume 13</title>
+	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
 </head>
 <body bgcolor="#C0C0C0" text="#000000" link="#FFFFFF" vlink="#FFFFFF" background="images/background.jpg">
-<table border="0" cellpadding="5" width="1200" bgcolor="#D0F5C0">
-	<tr><!-- Row 1 -->
-		<td>
-			<table border="0" cellspacing = "3" width="100%">
-				<tr><!-- Row 1 -->
-					<td height = "10" bgcolor="#000000"></td><!-- Col 1 -->
-				</tr>
-				<tr bgcolor= "#FFFFFF"><!-- Row 2 -->
-					<td height="40" align="center" bgcolor="#335423">
-						<div style="font:18px Arial;color:#FFFFFF"><i>CANOTIA: An Arizona journal publishing botanical and mycological papers</i></div>
-					</td>
-				</tr>
-				<tr>
-					<td height="10" bgcolor="#000000"></td>
-				</tr>
-			</table>
-		</td><!-- Col 1 -->
-	</tr>
-	<tr><!--row 2 -->
+<table border="0" cellpadding="5" style="width: 1200px; background-color: #D0F5C0; margin-left: auto; margin-right: auto;">
+	<tr>
 		<td>
 			<?php include_once('menu_header.php'); ?>
 		</td>
 	</tr>
-	<tr><!-- Row 3 -->
+	<tr>
 		<td>
 			<table cellpadding="10" align="center">
 	        	<tr>
