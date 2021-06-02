@@ -1,37 +1,16 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<!DOCTYPE HTML>
 <html>
-<!--  Created with the CoffeeCup HTML Editor 2008  -->
-<!--           http://www.coffeecup.com/           -->
-<!--        Brewed on 3/31/2011 11:56:17 AM        -->
 <head>
   <title>Canotia: Instructions for Authors</title>
   <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 </head>
-<body bgcolor="#C0C0C0" text="#000000" link="#FFFFFF" vlink="#FFFFFF" background="/images/background.jpg">
-<table border="0" cellpadding="5" width="1200" bgcolor="#D0F5C0"><!--tab 1-->
-     <tr><!--row 1 tab 1-->
-       <td><!--col 1.1 tab 1-->
-          <table border="0" cellspacing = "3" width="100%"><!--tab 2-->
-          <tr><!--row 1 tab 2-->
-           <td height = "10" bgcolor="#000000"><!--col 1.1 tab 2--></td><!--close col 11.1 tab 2-->
-        </tr><!--close row 1 tab 2-->
-        <tr bgcolor= "#FFFFFF"><!--row 2 tab 2-->
-           <td height="40" align="center" bgcolor="#335423"><font size="4" face="Arial" color="#FFFFFF"><!--col 1.2 tab 2-->
-        <i>CANOTIA: An Arizona journal publishing botanical and mycological papers</i></font>
-        </td><!--close col 1.2 tab 2 -->
-        </tr><!--close row 2 tab 2-->
-      <tr><!--row 3 tab 2-->
-        <td height="10" bgcolor="#000000"><!--col 1.3 tab 2-->
-        </td><!--close col 1.3 tab 2-->
-      </tr><!--close row 3 tab 2-->
-          </table>
-       </td><!--clos col 1.1 tab 1-->
-     </tr><!--row 1 tab 1-->
-	<tr><!--row 2 tab 1-->
-		<td><!--col 1.2 tab 1-->
+<body bgcolor="#C0C0C0" text="#000000" link="#FFFFFF" vlink="#FFFFFF" background="images/background.jpg">
+<table border="0" cellpadding="5" style="width: 1200px; background-color: #D0F5C0; margin-left: auto; margin-right: auto;">
+	<tr>
+		<td>
 			<?php include_once('menu_header.php'); ?>
-		</td><!--clos col 1.2 tab 1-->
-	</tr><!--close row 2 tab 1-->
+		</td>
+	</tr>
    <tr><!--row 3 tab 1-->
      <td><!--col 1.3 tab 1-->
          <table cellpadding="10" align="center"><!--tab 4-->
@@ -39,7 +18,7 @@
           <td width="10" bgcolor="#FFFFFF"><!--col 1.1 tab 4-->
           </td><!--close col 1.1 tab 4-->
           <td  width="200" align="center" valign="top" bgcolor="#335423"><!--col 1.2 tab 4-->
-               <p>&nbsp;&nbsp;</p><img src="/images/CanotiaCoverSmall.jpg" width="150" height="200" border="1" /></p>
+               <p>&nbsp;&nbsp;</p><img src="images/CanotiaCoverSmall.jpg" width="150" height="200" border="1" /></p>
              <p></p><font size="3" face="Arial" color="#FFFFFF">ISSN: 1931-3616</font>
           </td><!--close col 1.2 tab 4-->
           <td width="10" bgcolor="#FFFFFF"><!--col 1.3 tab 4-->
@@ -77,7 +56,7 @@
                </p>
                <p></p>
                <p align="justify"><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Taxonomic authorities may be written out or abbreviated according to the standard abbreviations suggested by the International
-               Plant Names Index (IPNI) for plants and Index Fungorum's Authors of Fungal Names for fungi.  Initials should be followed by spaces, i.e., Asa Gray�s name should be abbreviated  �A. Gray� not �A.Gray.� and Billie Lee Turner should be �B. L. Turner� not �B.L.Turner� nor �B.L. Turner.�
+               Plant Names Index (IPNI) for plants and Index Fungorum's Authors of Fungal Names for fungi.  Initials should be followed by spaces, i.e., Asa Gray's name should be abbreviated  "A. Gray" not "A.Gray." and Billie Lee Turner should be "B. L. Turner" not "B.L.Turner" nor "B.L. Turner."
                An authority name should be consistent throughout the paper.</font></p>
             <font size="3"><i>International Plant Names Index:</i></font><br><br>
                  <table border="0" cellspacing="3" width="100%" align="center" bgcolor="#335423">
@@ -146,7 +125,7 @@
              <table width="100%" cellpadding="5"><!--tab 5-->
                     <tr><!--row 1 tab 5-->
                     <td align="center" valign="center" bgcolor="#335423"><!--col 1.1 tab 5-->
-                         <a target="_blank" href="/volumes/VPA_guidelines.pdf">VPA Guidelines</a>
+                         <a target="_blank" href="volumes/VPA_guidelines.pdf">VPA Guidelines</a>
                     </td><!--close col 1.1 tab 5-->
                  </tr><!--close row 1 tab 5-->
              </table><!--close tab 5-->
@@ -165,11 +144,11 @@
      <td><!--col 1.4 tab 1-->
           <table border="0" cellspacing="3"><!--tab 6-->
            <tr><!--row 1 tab 6-->
-            <td width="150" height="30" background="/images/canotiatop.jpg"><!--col 1.1 tab 6-->
+            <td width="150" height="30" background="images/canotiatop.jpg"><!--col 1.1 tab 6-->
            </td><!--close col 1.1 tab 6-->
            <td width="925" bgcolor="#335423"><!--col 2.1 tab 6-->
            </td><!--close col 2.1 tab 6-->
-           <td width="150" height="30" background="/images/canotiatop.jpg"><!--col 3.1 tab 6-->
+           <td width="150" height="30" background="images/canotiatop.jpg"><!--col 3.1 tab 6-->
            </td><!--close col 3.1 tab 6-->
          </tr><!--close row 1 tab 6-->
       </table><!--close tab 6-->
