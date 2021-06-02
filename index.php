@@ -43,27 +43,21 @@
       </table>
    </td><!-- Col 1 -->
   </tr>
-  <tr><!-- Row 4 -->
-     <td>
-       <table border="0" cellspacing="3">
-           <tr>
-            <td width="150" height="30" background="images/canotiatop.jpg"></td>
-           <td width="925" bgcolor="#335423"></td>
-           <td width="150" height="30" background="images/canotiatop.jpg"></td>
-         </tr>
-      </table>
-   </td><!-- Col 1 -->
-  </tr>
-</table>
-
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-8819594-3");
-pageTracker._trackPageview();
-} catch(err) {}</script>
+		<tr>
+			<td>
+				<?php include_once('footer.php'); ?>
+			</td>
+		</tr>
+	</table>
+	<script type="text/javascript">
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+	<script type="text/javascript">
+		try {
+		var pageTracker = _gat._getTracker("UA-8819594-3");
+		pageTracker._trackPageview();
+		} catch(err) {}
+	</script>
 </body>
 </html>

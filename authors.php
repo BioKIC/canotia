@@ -140,21 +140,11 @@
       </table><!--close tab 4-->
      </td><!--close col 1.3 tab 1-->
    </tr><!--close row 3 tab 1-->
-   <tr><!--row 4 tab 1-->
-     <td><!--col 1.4 tab 1-->
-          <table border="0" cellspacing="3"><!--tab 6-->
-           <tr><!--row 1 tab 6-->
-            <td width="150" height="30" background="images/canotiatop.jpg"><!--col 1.1 tab 6-->
-           </td><!--close col 1.1 tab 6-->
-           <td width="925" bgcolor="#335423"><!--col 2.1 tab 6-->
-           </td><!--close col 2.1 tab 6-->
-           <td width="150" height="30" background="images/canotiatop.jpg"><!--col 3.1 tab 6-->
-           </td><!--close col 3.1 tab 6-->
-         </tr><!--close row 1 tab 6-->
-      </table><!--close tab 6-->
-     </td><!--close col 1.4 tab 1-->
-   </tr><!--close row 4 tab 1-->
-</table><!--close tab 1-->
-
+		<tr>
+			<td>
+				<?php include_once('footer.php'); ?>
+			</td>
+		</tr>
+	</table>
 </body>
 </html>
