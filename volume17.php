@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-	<title>Canotia: Volume 1</title>
+	<title>Canotia: Volume 17</title>
 	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
 	<style type="text/css">
 		.mid-title{ font-weight: bold; margin-top: 20px; margin-bottom: 10px; }
@@ -23,24 +23,14 @@
 					<tr>
 						<?php include_once('menu_left.php'); ?>
 						<td width="500" bgcolor="#FFFFFF" valign="top">
-							<div class="mid-title">Volume 1, issue 1</div>
+							<div class="mid-title">Volume 17</div>
 							<div class="mid-section">
-								<ul><li><a target="_blank" href="volumes/CANOTIA_2005_Vol1_1_Cover.pdf">Cover</a></li></ul>
+								<ul><li><a target="_blank" href="volumes/vol17/ChecklistsFinal_2021-06-01.pdf">Making Checklists with the SEINet Database/Symbiota Portals</a></li></ul>
+								<div class="mid-by">by Mackenzie E. Bell and Leslie R. Landrum</div>
 							</div>
 							<div class="mid-section">
-								<ul><li><a target="_blank" href="volumes/CANOTIA_2005_Vol1_1_Index_to_Families_VPA.pdf">Index to the Families of the Vascular Plants of Arizona</a></li></ul>
-							</div>
-							<div class="mid-section">
-								<ul><li><a target="_blank" href="volumes/CANOTIA_2005_Vol1_1_Landrum_et_VPA.pdf">A New Journal, Canotia</a></li></ul>
-								<div class="mid-by">by Les Landrum</div>
-							</div>
-							<div class="mid-section">
-								<ul><li><a target="_blank" href="volumes/CANOTIA_2005_Vol1_1_Landrum_et_VPA.pdf">A New Flora For Arizona in Preparation</a></li></ul>
-								<div class="mid-by">by Vascular Plants of Arizona Editorial Committee</div>
-							</div>
-							<div class="mid-section">
-								<ul><li><a target="_blank" href="volumes/CANOTIA_2005_Vol1_1_Wilken_et_Porter_Polemoniaceae.pdf">Vascular Plants of Arizona: Polemoniaceae</a></li></ul>
-								<div class="mid-by">by Dieter H. Wilken and J. Mark Porter</div>
+								<ul><li><a target="_blank" href="volumes/vol17/NearbyFinal_2021-06-01.pdf">NEARBY, a Computer Program for Phytogeographic Analysis Using Georeferenced Specimen Data</a></li></ul>
+								<div class="mid-by">by Daryl L. Lafferty & Leslie R. Landrum</div>
 							</div>
 						</td>
 						<td width="10" bgcolor="#FFFFFF"></td>

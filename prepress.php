@@ -29,11 +29,10 @@
 						<div style="">
 							- Peer reviewed papers made available online in advance of the printed issues.
 						</div>
-						<!--
 						<div style="margin:20px 0px;padding:25px;background-color:#335423;color:#FFFFFF;">
 							None at this time- please check back!
 						</div>
-						-->
+						<!--
 						<div style="margin:20px 0px;padding:5px;background-color:#335423">
 							<ul>
 								<li>
@@ -46,6 +45,7 @@
 								By Daryl L. Lafferty & Leslie R. Landrum
 							</div>
 						</div>
+						-->
 					</td>
 					<td width="10" bgcolor="#FFFFFF"></td>
 					<?php include_once('menu_right.php'); ?>

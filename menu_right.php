@@ -19,6 +19,7 @@
 		<p><a href="volume14.php">Volume 14 (2018)</a></p>
 		<p><a href="volume15.php">Volume 15 (2019)</a></p>
 		<p><a href="volume16.php">Volume 16 (2020)</a></p>
+		<p><a href="volume17.php">Volume 17 (2021)</a></p>
 		<p><a href="prepress.php">PrePress</a></p>
 	</div>
 </td>
