@@ -137,7 +137,7 @@
 											Part 1: <i>Agave</i> - JANAS 32(1): 1-21. 1999. (W.Hodgson)</a>
 										</li>
 										<li><span><i>Aizoaceae</i></span></li>
-										<li><a target="_blank" href="volumes/Canotia14-2_Alismataceae.pdf"><i>Alismataceae</i>- Canotia 14: 10-21. 2018. (J.M. Ricketson)</a></li>
+										<li><a target="_blank" href="volumes/vol14/Canotia14-2_Alismataceae.pdf"><i>Alismataceae</i>- Canotia 14: 10-21. 2018. (J.M. Ricketson)</a></li>
 										<li><span><i>Amaranthaceae</i> - (Fig. 4)</span></li>
 										<li><a target="_blank" href="/volumes/CANOTIA_2007_Vol3_2_Anderson_Anacardiaceae.pdf"><i>Anacardiaceae</i>- Canotia 3(2): 13-22. 2007. (J.L. Anderson)</a></li>
 										<li><span><i>Apiaceae</i> - (Fig. 5)</span></li>
@@ -254,7 +254,7 @@
 										<li><a target="_blank" href="/vpa_volumes/VPA_JANAS_1995_Vol29_1_Ricketson_Hippuridaceae.pdf"><i>Hippuridaceae</i>
 											- JANAS 29(1): 25. 1995. (J. Ricketson)</a></li>
 										<li><a target="_blank" href="volumes/vol15/2-Hydrangeaceae.pdf"><i>Hydrangeaceae</i> - Canotia 15: 3-13. 2019. (Wendy McBride, Amy Prince, Sue Holiday, Tracy Ridlinghafer, Sam Skibicki, Randy Scott, and Tina Ayers)</a></li>
-										<li><a target="_blank" href="volumes/Canotia14-3_Hydrocharitacae.pdf"><i>Hydrocharitaceae</i>- Canotia 14: 23-30. 2018. (J.M. Ricketson)</a></li>
+										<li><a target="_blank" href="volumes/vol14/Canotia14-3_Hydrocharitacae.pdf"><i>Hydrocharitaceae</i>- Canotia 14: 23-30. 2018. (J.M. Ricketson)</a></li>
 										<li><span><i>Hydrophyllaceae</i> - (Fig. 14)</span></li>
 										<li><a target="_blank" href="/vpa_volumes/VPA_JANAS_1994_Vol27_2_Cholewa_et_Henderson_Iridaceae1.pdf"><i>Iridaceae</i>
 											Part One: <i>Sisyrinchium</i> - JANAS 27(2): 215-218. 1994. (A.F. Cholewa and D.M. Henderson)</a></li>
@@ -300,7 +300,7 @@
 										<li><a target="_blank" href="/vpa_volumes/VPA_JANAS_1998_Vol30_2_Christy_Molluginaceae.pdf"><i>Molluginaceae</i>
 											- JANAS 30(2): 112-114. 1998. (C.M. Christy)</a></li>
 										<li><span><i>Moraceae</i></span></li>
-										<li><a target="_blank" href="volumes/Canotia14-4_Najadaceae.pdf"><i>Najadaceae</i>- Canotia 14: 31-35. 2018. (J.M. Ricketson)</a></li>
+										<li><a target="_blank" href="volumes/vol14/Canotia14-4_Najadaceae.pdf"><i>Najadaceae</i>- Canotia 14: 31-35. 2018. (J.M. Ricketson)</a></li>
 										<li><span><i>Nyctaginaceae</i> - (Fig. 14)</span></li>
 										<li><a target="_blank" href="/vpa_volumes/VPA_JANAS_1995_Vol29_1_Ricketson_Nymphaeaceae.pdf"><i>Nymphaeaceae</i>
 											- JANAS 29(1): 26-28. 1995. (J. Ricketson)</a></li>
@@ -346,14 +346,14 @@
 										<li><a target="_blank" href="/vpa_volumes/VPA_JANAS_1994_Vol27_2_Yatskievych_Rafflesiaceae.pdf"><i>Rafflesiaceae</i>
 											- JANAS 27(2): 239. 1994. (G. Yatskievych)</a></li>
 										<li><span><i>Ranunculaceae</i> - (Fig.15)</span></li>
-										<li><a target="_blank" href="volumes/Canotia14-5_RESEDACEAE.pdf"><i>Resedaceae</i>- Canotia 14: 36-38. 2018. (R. Gutierrez)</a></li>
+										<li><a target="_blank" href="volumes/vol14/Canotia14-5_RESEDACEAE.pdf"><i>Resedaceae</i>- Canotia 14: 36-38. 2018. (R. Gutierrez)</a></li>
 										<li><a target="_blank" href="/volumes/CANOTIA_2006_Vol2_1_Christie_et_al_Rhamnaceae.pdf"><i>Rhamnaceae</i>
 											- Canotia 2(1): 23-46. 2006. (K. Christie, M. Currie, L. Smith Davis, M-E. Hill, S. Neal, and T. Ayers)</a></li>
 										<li><a target="_blank" href="/vpa_volumes/VPA_JANAS_2001_Vol33_1_Brasher_Rosaceae1_Rubus.pdf"><i>Rosaceae</i>
 											Part One: <i>Rubus</i> - JANAS 33(1): 50-57. 2001. (J.W. Brasher)</a></li>
 										<li><a target="_blank" href="/vpa_volumes/VPA_JANAS_1995_Vol29_1_Dempster_et_Terrell_Rubiaceae.pdf"><i>Rubiaceae</i>
 											JANAS 29(1): 29-38. 1995. (L. Dempster and E.T. Terrell; Fig. 16)</a></li>
-										<li><a target="_blank" href="volumes/Canotia14-6_Ruppiaceae.pdf"><i>Ruppiaceae</i>- Canotia 14: 39-41. 2018. (J.M. Ricketson)</a></li>
+										<li><a target="_blank" href="volumes/vol14/Canotia14-6_Ruppiaceae.pdf"><i>Ruppiaceae</i>- Canotia 14: 39-41. 2018. (J.M. Ricketson)</a></li>
 										<li><span><i>Rutaceae</i></span></li>
 										<li><a target="_blank" href="/vpa_volumes/VPA_JANAS_1992_Vol26_1_Eckenwalder_Salicaceae1.pdf"><i>Salicaceae</i>
 											Part One: <i>Populus</i> - JANAS 26(1): 29-33. 1992. (J.E. Eckenwalder)</a></li>
@@ -371,7 +371,7 @@
 											- JANAS 32(1): 83-84. 1999. (C.T. Mason, Jr.)</a></li>
 										<li><a target="_blank" href="/vpa_volumes/VPA_JANAS_1992_Vol26_1_Elvander_Saxifragaceae.pdf"><i>Saxifragaceae</i>
 											- JANAS 26(1): 36-41. 1992. (P. Elvander; Fig. 16)</a></li>
-										<li><a href="volumes/Canotia14-7_Scrophulariaceae.pdf" target="_blank"><i>Scrophulariaceae</i> - Canotia 14: 42-53. 2018. (R. Crawford, K. Noonan, and T. Ayers; Fig. 17)</a>
+										<li><a href="volumes/vol14/Canotia14-7_Scrophulariaceae.pdf" target="_blank"><i>Scrophulariaceae</i> - Canotia 14: 42-53. 2018. (R. Crawford, K. Noonan, and T. Ayers; Fig. 17)</a>
 											<span>(see also <a href="http://canotia.org/volumes/Canotia12-Phrymaceae-Ayers-et-al.pdf" target="_blank">Phrymaceae</a>)</span></li>
 										<li><a href="/volumes/CANOTIA_2009_Vol5_1_Yatskievych_et_Windham_Selaginellaceae.pdf" target="_blank"><i>Selaginellaceae</i>
 											- Canotia 5(1): 39-48. 2009. (G. Yatskievych and M.D. Windham)</a></li>
@@ -391,7 +391,7 @@
 											Barron, F.S. Coburn, K. Sanderford, and D. Setaro)</a></li>
 										<li><a target="_blank" href="/volumes/Canotia_9-Chamaesaracha-FINAL.pdf"><i>Solanaceae</i>
 											Part Five: <i>Chamaesaracha</i>. CANOTIA 9: 13-15. 2013. (E. Manton)</a></li>
-										<li><a target="_blank" href="volumes/Canotia14-8_Solanaceae-Nicotiana.pdf"><i>Solanaceae</i>
+										<li><a target="_blank" href="volumes/vol14/Canotia14-8_Solanaceae-Nicotiana.pdf"><i>Solanaceae</i>
 											Part Six: <i>Nicotiana</i>. CANOTIA 14: 54-62. 2018. (E. Makings and J-P. Solves)</a></li>
 										<li><a target="_blank" href="/vpa_volumes/VPA_JANAS_2001_Vol33_1_Ricketson_Sparganiaceae.pdf"><i>Sparganiaceae</i>
 											- JANAS 33(1): 65-68. 2001. (J. Ricketson)</a></li>
@@ -413,7 +413,7 @@
 										<li><a target="_blank" href="/vpa_volumes/VPA_JANAS_1994_Vol27_2_Hawksworth_et_Wiens_Viscaceae.pdf"><i>Viscaceae</i>
 											- JANAS 27(2): 241-245. 1994. (F.G. Hawksworth and D. Wiens)</a></li>
 										<li><span><i>Vitaceae</i></span></li>
-										<li><a target="_blank" href="volumes/Canotia14-9_Zannichelliaceae.pdf"><i>Zannichelliaceae</i>- Canotia 14: 63-65. 2018. (J.M. Ricketson)</a></li>
+										<li><a target="_blank" href="volumes/vol14/Canotia14-9_Zannichelliaceae.pdf"><i>Zannichelliaceae</i>- Canotia 14: 63-65. 2018. (J.M. Ricketson)</a></li>
 										<li><span><i>Zygophyllaceae</i> - (Fig. 17)</span></li>
 									</ul>
 								</div>
