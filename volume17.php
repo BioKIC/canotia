@@ -5,6 +5,7 @@
 	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
 	<style type="text/css">
 		.mid-title{ font-weight: bold; margin-top: 20px; margin-bottom: 10px; }
+		.mid-cover{ padding:5px 0px; background-color: #335423 }
 		.mid-section{ background-color: #335423; padding: 12px 0px; margin: 20px 0px; }
 		.mid-section ul{ margin: 0px; }
 		.mid-by{ margin: 10px 40px; color: #FFFFFF; }
@@ -24,13 +25,24 @@
 						<?php include_once('menu_left.php'); ?>
 						<td width="500" bgcolor="#FFFFFF" valign="top">
 							<div class="mid-title">Volume 17</div>
+							<div class="mid-cover">
+								<ul><li><a href="volumes/vol17/Cover.pdf" target="_blank">Cover</a></li></ul>
+							</div>
 							<div class="mid-section">
-								<ul><li><a target="_blank" href="volumes/vol17/ChecklistsFinal_2021-06-01.pdf">Making Checklists with the SEINet Database/Symbiota Portals</a></li></ul>
+								<ul><li><a href="volumes/vol17/ChecklistsFinal_2021-06-01.pdf" target="_blank">Making Checklists with the SEINet Database/Symbiota Portals</a></li></ul>
 								<div class="mid-by">by Mackenzie E. Bell and Leslie R. Landrum</div>
 							</div>
 							<div class="mid-section">
-								<ul><li><a target="_blank" href="volumes/vol17/NearbyFinal_2021-06-01.pdf">NEARBY, a Computer Program for Phytogeographic Analysis Using Georeferenced Specimen Data</a></li></ul>
+								<ul><li><a href="volumes/vol17/NearbyFinal_2021-06-01.pdf" target="_blank">NEARBY, a Computer Program for Phytogeographic Analysis Using Georeferenced Specimen Data</a></li></ul>
 								<div class="mid-by">by Daryl L. Lafferty & Leslie R. Landrum</div>
+							</div>
+							<div class="mid-section">
+								<ul><li><a href="volumes/vol17/Solanaceae_part7.pdf" target="_blank">Solanaceae Part Seven: Browallia, Calibrachoa, Capsicum, Jaltomata, and Salpichroa</a></li></ul>
+								<div class="mid-by">by Courtney M. Currier, Elizabeth Makings, John Anderson, and Jonathan Maranville</div>
+							</div>
+							<div class="mid-section">
+								<ul><li><a href="volumes/vol17/Saguaro.pdf" target="_blank">The Decline and Fall of a Large Saguaro</a></li></ul>
+								<div class="mid-by">by John Alcock</div>
 							</div>
 						</td>
 						<td width="10" bgcolor="#FFFFFF"></td>
