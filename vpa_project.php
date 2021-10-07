@@ -4,7 +4,7 @@
 	<title>Canotia: Vascular Plants of Arizona Project</title>
 	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
 	<style type="text/css">
-		li a{color:#FFFFFF}
+		li{color:#FFFFFF}
 		li span{color:#FFFFFF}
 	</style>
 </head>
@@ -380,21 +380,24 @@
 										<li><a target="_blank"href="/vpa_volumes/VPA_JANAS_1995_Vol29_1_Rebman_Simmondsiaceae.pdf"><i>Simmondsiaceae</i>
 											JANAS 29(1): 63-64. 1995. (J. Rebman)</a></li>
 										<li><a target="_blank" href="/vpa_volumes/VPA_JANAS_2001_Vol33_1_Bye_Solanaceae1_Datura.pdf"><i>Solanaceae</i>
-											Part One: <i>Datura</i> - JANAS 33(1): 58-64. 2001. (R. Bye)</a></li>
+											Part One: <i>Datura</i></a> - JANAS 33(1): 58-64. 2001. (R. Bye)</li>
 										<li><a target="_blank" href="/volumes/CANOTIA_2009_Vol5_1_Bates_et_al_Solanaceae2_Solanum.pdf"><i>Solanaceae</i>
-											Part Two: Key to the genera and <i>Solanum</i> - Canotia 5(1): 1-16. 2009. (S.T. Bates, F. Farruggia, E. Gilbert, R.
-											Gutierrez, D. Jenke, E. Makings, E. Manton, D. Newton, and L.R. Landrum )</a></li>
+											Part Two: Key to the genera and <i>Solanum</i></a> - Canotia 5(1): 1-16. 2009. (S.T. Bates, F. Farruggia, E. Gilbert, R.
+											Gutierrez, D. Jenke, E. Makings, E. Manton, D. Newton, and L.R. Landrum )</li>
 										<li><a target="_blank" href="/volumes/CANOTIA_2009_Vol5_1_Chiang_et_Landrum_Solanaceae3_Lycium.pdf"><i>Solanaceae</i>
-											Part Three: <i>Lycium</i> - Canotia 5(1): 17-26. 2009. (F. Chiang and L.R. Landrum )</a></li>
+											Part Three: <i>Lycium</i></a> - Canotia 5(1): 17-26. 2009. (F. Chiang and L.R. Landrum )</li>
 										<li><a target="_blank" href="/volumes/Canotia_9_Physalis_and_Quincula-FINAL.pdf"><i>Solanaceae</i>
-											Part Four: <i>Physalis</i> and <i>Quincula</i>. CANOTIA 9: 1-12. 2013. (L.R. Landrum, A. Barber, K.
-											Barron, F.S. Coburn, K. Sanderford, and D. Setaro)</a></li>
+											Part Four: <i>Physalis</i> and <i>Quincula</i></a> - CANOTIA 9: 1-12. 2013. (L.R. Landrum, A. Barber, K.
+											Barron, F.S. Coburn, K. Sanderford, and D. Setaro)</li>
 										<li><a target="_blank" href="/volumes/Canotia_9-Chamaesaracha-FINAL.pdf"><i>Solanaceae</i>
-											Part Five: <i>Chamaesaracha</i>. CANOTIA 9: 13-15. 2013. (E. Manton)</a></li>
+											Part Five: <i>Chamaesaracha</i></a> - CANOTIA 9: 13-15. 2013. (E. Manton)</li>
 										<li><a target="_blank" href="volumes/vol14/Canotia14-8_Solanaceae-Nicotiana.pdf"><i>Solanaceae</i>
-											Part Six: <i>Nicotiana</i>. CANOTIA 14: 54-62. 2018. (E. Makings and J-P. Solves)</a></li>
-										<li><a target="_blank" href="/vpa_volumes/VPA_JANAS_2001_Vol33_1_Ricketson_Sparganiaceae.pdf"><i>Sparganiaceae</i>
-											- JANAS 33(1): 65-68. 2001. (J. Ricketson)</a></li>
+											Part Six: <i>Nicotiana</i></a> - CANOTIA 14: 54-62. 2018. (E. Makings and J-P. Solves)</li>
+										<li><a target="_blank" href="volumes/vol17/Solanaceae_part7.pdf"><i>Solanaceae</i>
+											Part Seven: <i>Browallia</i>, <i>Calibrachoa</i>, <i>Capsicum</i>, <i>Jaltomata</i>, and <i>Salpichroa</i></a> -
+											CANOTIA 17: 46-60. 2021. (C.M. Currier, E. Makings, J. Anderson, &amp; J. Maranville)</li>
+										<li><a target="_blank" href="/vpa_volumes/VPA_JANAS_2001_Vol33_1_Ricketson_Sparganiaceae.pdf"><i>Sparganiaceae</i></a>
+											- JANAS 33(1): 65-68. 2001. (J. Ricketson)</li>
 										<li><span><i>Sterculiaceae</i></span></li>
 										<li><span><i>Tamaricaceae</i></span></li>
 										<li><a target="_blank" href="/volumes/CANOTIA_2009_Vol5_1_Yatskievych_et_Windham_Thelypteridaceae.pdf"><i>Thelypteridaceae</i>
