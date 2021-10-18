@@ -393,7 +393,7 @@
 											Part Five: <i>Chamaesaracha</i></a> - CANOTIA 9: 13-15. 2013. (E. Manton)</li>
 										<li><a target="_blank" href="volumes/vol14/Canotia14-8_Solanaceae-Nicotiana.pdf"><i>Solanaceae</i>
 											Part Six: <i>Nicotiana</i></a> - CANOTIA 14: 54-62. 2018. (E. Makings and J-P. Solves)</li>
-										<li><a target="_blank" href="volumes/vol17/Solanaceae_part7.pdf"><i>Solanaceae</i>
+										<li><a target="_blank" href="volumes/vol17/3-Solanaceae_part7.pdf"><i>Solanaceae</i>
 											Part Seven: <i>Browallia</i>, <i>Calibrachoa</i>, <i>Capsicum</i>, <i>Jaltomata</i>, and <i>Salpichroa</i></a> -
 											CANOTIA 17: 46-60. 2021. (C.M. Currier, E. Makings, J. Anderson, &amp; J. Maranville)</li>
 										<li><a target="_blank" href="/vpa_volumes/VPA_JANAS_2001_Vol33_1_Ricketson_Sparganiaceae.pdf"><i>Sparganiaceae</i></a>
