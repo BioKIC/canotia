@@ -34,7 +34,7 @@
 							</div>
 							<div class="mid-section">
 								<ul><li><a href="volumes/vol17/2-Nearby.pdf" target="_blank">NEARBY, a Computer Program for Phytogeographic Analysis Using Georeferenced Specimen Data</a></li></ul>
-								<div class="mid-by">by Daryl L. Lafferty & Leslie R. Landrum</div>
+								<div class="mid-by">by Daryl L. Lafferty and Leslie R. Landrum</div>
 							</div>
 							<div class="mid-section">
 								<ul><li><a href="volumes/vol17/3-Solanaceae_part7.pdf" target="_blank">Solanaceae Part Seven: Browallia, Calibrachoa, Capsicum, Jaltomata, and Salpichroa</a></li></ul>
