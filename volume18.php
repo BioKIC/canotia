@@ -29,7 +29,7 @@
 								<ul><li><a href="volumes/vol18/Cover18.pdf" target="_blank">Cover</a></li></ul>
 							</div>
 							<div class="mid-section">
-								<ul><li><a href="volumes/vol18/Psidium_Bolivia_Paraguay-Landrum-2022.pdf" target="_blank">The Genus Psidium (Myrtaceae) in Bolivia and Paraguay</a></li></ul>
+								<ul><li><a href="volumes/vol18/Psidium_Bolivia_Paraguay-Landrum-2022-09-12.pdf" target="_blank">The Genus Psidium (Myrtaceae) in Bolivia and Paraguay</a></li></ul>
 								<div class="mid-by">by Leslie R. Landrum</div>
 							</div>
 							<div style="height: 5px; background-color: #D0F5C0; margin: 20px 0px">&nbsp;</div>
