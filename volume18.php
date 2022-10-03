@@ -35,16 +35,16 @@
 							<div style="height: 5px; background-color: #D0F5C0; margin: 20px 0px">&nbsp;</div>
 							<div class="mid-title">Volume 18, issue 2</div>
 							<div class="mid-section">
-								<ul><li><a href="volumes/vol18/Flora-Phrynosoma_ditmarsi-28-09-2022.pdf" target="_blank">
-									Flora and Vegetation of Rock Horned Lizard (Phrynosoma ditmarsi) Sites, Rancho Las Playitas, Sonora, Mexico
-								</a></li></ul>
-								<div class="mid-by">by Thomas R. Van Devender, Ana L. Reina-Guerrero, Stephen F. Hale, Guillermo Molina-Padilla</div>
-							</div>
-							<div class="mid-section">
 								<ul><li><a href="volumes/vol18/Fonseca_CCNP_Sept2022.pdf" target="_blank">
 									Vegetation Change and Floristic Inventory of Cienega Creek Natural Preserve, Pima County, Arizona
 								</a></li></ul>
 								<div class="mid-by">by Julia E. Fonseca</div>
+							</div>
+							<div class="mid-section">
+								<ul><li><a href="volumes/vol18/Flora-Phrynosoma_ditmarsi-28-09-2022.pdf" target="_blank">
+									Flora and Vegetation of Rock Horned Lizard (Phrynosoma ditmarsi) Sites, Rancho Las Playitas, Sonora, Mexico
+								</a></li></ul>
+								<div class="mid-by">by Thomas R. Van Devender, Ana L. Reina-Guerrero, Stephen F. Hale, Guillermo Molina-Padilla</div>
 							</div>
 						</td>
 						<td width="10" bgcolor="#FFFFFF"></td>
