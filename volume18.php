@@ -44,7 +44,13 @@
 								<ul><li><a href="volumes/vol18/Flora-Phrynosoma_ditmarsi-28-09-2022.pdf" target="_blank">
 									Flora and Vegetation of Rock Horned Lizard (Phrynosoma ditmarsi) Sites, Rancho Las Playitas, Sonora, Mexico
 								</a></li></ul>
-								<div class="mid-by">by Thomas R. Van Devender, Ana L. Reina-Guerrero, Stephen F. Hale, Guillermo Molina-Padilla</div>
+								<div class="mid-by">by Thomas R. Van Devender, Ana L. Reina-Guerrero, Stephen F. Hale, and Guillermo Molina-Padilla</div>
+							</div>
+							<div class="mid-section">
+								<ul><li><a href="volumes/vol18/Hesperoyucca-19Oct2022.pdf" target="_blank">
+									AGAVACEAE Part Two: Hesperoyucca (Engelm.) Baker
+								</a></li></ul>
+								<div class="mid-by">by Wendy C. Hodgson and Andrew Salywon</div>
 							</div>
 						</td>
 						<td width="10" bgcolor="#FFFFFF"></td>

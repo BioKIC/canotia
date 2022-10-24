@@ -134,7 +134,11 @@
 										<li><span><i>Adiantaceae</i> - (Fig. 1)</span></li>
 										<li>
 											<a target="_blank" href="/vpa_volumes/VPA_JANAS_1999_Vol32_1_Hodgson_Agavaceae.pdf"><i>Agavaceae</i>
-											Part 1: <i>Agave</i> - JANAS 32(1): 1-21. 1999. (W.Hodgson)</a>
+											Part one: <i>Agave</i> - JANAS 32(1): 1-21. 1999. (W.Hodgson)</a>
+										</li>
+										<li>
+											<a target="_blank" href="/volumes/vol18/Hesperoyucca-19Oct2022.pdf"><i>Agavaceae</i>
+											Part two: <i>Hesperoyucca</i> - Canotia 18(2):182-188. 2022. (W. Hodgson and A. Salywon)</a>
 										</li>
 										<li><span><i>Aizoaceae</i></span></li>
 										<li><a target="_blank" href="volumes/vol14/Canotia14-2_Alismataceae.pdf"><i>Alismataceae</i>- Canotia 14: 10-21. 2018. (J.M. Ricketson)</a></li>
