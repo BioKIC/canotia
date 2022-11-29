@@ -34,6 +34,9 @@
 							</div>
 							<div style="height: 5px; background-color: #D0F5C0; margin: 20px 0px">&nbsp;</div>
 							<div class="mid-title">Volume 18, issue 2</div>
+							<div class="mid-cover">
+								<ul><li><a href="volumes/vol18/Cover18_2.pdf" target="_blank">Cover</a></li></ul>
+							</div>
 							<div class="mid-section">
 								<ul><li><a href="volumes/vol18/Fonseca_CCNP_Sept2022.pdf" target="_blank">
 									Vegetation Change and Floristic Inventory of Cienega Creek Natural Preserve, Pima County, Arizona
