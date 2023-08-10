@@ -34,6 +34,10 @@
 								<ul><li><a href="volumes/vol19/BlodgettGoldmanWTMPFlora-19-1.pdf" target="_blank">Revisiting the Flora of White Tank Mountain Regional Park</a></li></ul>
 								<div class="mid-by">by Cass Blodgett & Dawn Goldman</div>
 							</div>
+							<div class="mid-section">
+								<ul><li><a href="volumes/vol19/CoalMineCanyon-19-1.pdf" target="_blank">Vascular Plant Checklist of Coal Mine Canyon, Santa Cruz County, Arizona</a></li></ul>
+								<div class="mid-by">by Susan D. Carnahan</div>
+							</div>
 							<div style="height: 5px; background-color: #D0F5C0; margin: 20px 0px">&nbsp;</div>
 						</td>
 						<td width="10" bgcolor="#FFFFFF"></td>
