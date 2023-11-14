@@ -325,7 +325,7 @@
 											- JANAS 33(1): 46-49. 2001. (V. Steinmann)</a></li>
 										<li><span><i>Pinaceae</i></span></li>
 										<li><a href="volumes/vol19/Penstemon_vol19.pdf" target="_blank"><i>Plantaginaceae</i>
-											Part One: <i>Penstemon</i> - CANOTIA 19: 65-147. 2023. (G. Rink)</a></li>
+											Part One: Family description, Key to Genera, and <i>Penstemon</i> - CANOTIA 19: 65-147. 2023. (G. R. Rink)</a></li>
 										<li><a target="_blank" href="vpa_volumes/VPA_JANAS_1999_Vol32_1_Huisinga_et_Ayers_Plantaginaceae.pdf"><i>Plantaginaceae</i>
 											Part Two: <i>Plantago</i> - JANAS 32(1): 62-76. 1999. (K.D. Huisinga and T.J. Ayers)</a></li>
 										<li><a target="_blank" href="vpa_volumes/VPA_JANAS_1994_Vol27_2_Laferriere_Platanaceae.pdf"><i>Platanaceae</i>
