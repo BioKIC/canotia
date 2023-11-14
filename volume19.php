@@ -25,11 +25,9 @@
 						<?php include_once('menu_left.php'); ?>
 						<td width="500" bgcolor="#FFFFFF" valign="top">
 							<div class="mid-title">Volume 19, issue 1</div>
-							<!--
 							<div class="mid-cover">
-								<ul><li><a href="volumes/vol19/Cover.pdf" target="_blank">Cover</a></li></ul>
+								<ul><li><a href="volumes/vol19/Cover_vol19.pdf" target="_blank">Cover</a></li></ul>
 							</div>
-							-->
 							<div class="mid-section">
 								<ul><li><a href="volumes/vol19/BlodgettGoldmanWTMPFlora-19-1.pdf" target="_blank">Revisiting the Flora of White Tank Mountain Regional Park</a></li></ul>
 								<div class="mid-by">by Cass Blodgett & Dawn Goldman</div>
@@ -37,6 +35,10 @@
 							<div class="mid-section">
 								<ul><li><a href="volumes/vol19/CoalMineCanyon-19-1.pdf" target="_blank">Vascular Plant Checklist of Coal Mine Canyon, Santa Cruz County, Arizona</a></li></ul>
 								<div class="mid-by">by Susan D. Carnahan</div>
+							</div>
+							<div class="mid-section">
+								<ul><li><a href="volumes/vol19/Penstemon_vol19.pdf" target="_blank">Vascular Plants of Arizona. Plantaginaceae: Family description, Key to Genera, and Penstemon</a></li></ul>
+								<div class="mid-by">by Glenn Rink</div>
 							</div>
 							<div style="height: 5px; background-color: #D0F5C0; margin: 20px 0px">&nbsp;</div>
 						</td>
