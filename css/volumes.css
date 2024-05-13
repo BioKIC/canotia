@@ -1,0 +1,33 @@
+.mid-title{ 
+	font-weight: bold; 
+	margin-top: 30px; 
+	margin-bottom: 20px; 
+}
+
+.mid-cover{ 
+	padding:5px 0px; 
+	background-color: #335423 
+}
+
+.mid-section{ 
+	background-color: #335423; 
+	padding: 12px 0px; 
+	margin: 20px 0px; 
+}
+
+.mid-section ul{ 
+	margin: 0px; 
+}
+
+.mid-section ul span{ 
+	color: #FFFFFF; 
+}
+
+.mid-vol { 
+	margin: 10px 40px; 
+}
+
+.mid-by{ 
+	margin: 10px 40px; 
+	color: #FFFFFF; 
+}

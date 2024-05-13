@@ -3,13 +3,7 @@
 <head>
 	<title>Canotia: Volume 17</title>
 	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
-	<style type="text/css">
-		.mid-title{ font-weight: bold; margin-top: 20px; margin-bottom: 10px; }
-		.mid-cover{ padding:5px 0px; background-color: #335423 }
-		.mid-section{ background-color: #335423; padding: 12px 0px; margin: 20px 0px; }
-		.mid-section ul{ margin: 0px; }
-		.mid-by{ margin: 10px 40px; color: #FFFFFF; }
-	</style>
+	<link href="css/volumes.css" type="text/css" rel="stylesheet">
 </head>
 <body bgcolor="#C0C0C0" text="#000000" link="#FFFFFF" vlink="#FFFFFF" background="images/background.jpg">
 	<table border="0" cellpadding="5" style="width: 1200px; background-color: #D0F5C0; margin-left: auto; margin-right: auto;">
