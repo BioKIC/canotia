@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-	<title>Cantotia: Volume 11</title>
+	<title>CANOTIA: Volume 11</title>
 	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
 </head>
 <body bgcolor="#C0C0C0" text="#000000" link="#FFFFFF" vlink="#FFFFFF" background="images/background.jpg">

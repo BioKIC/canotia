@@ -1,7 +1,7 @@
 <!DOCTYPE HTML >
 <html>
 <head>
-	<title>Canotia: Volume 2</title>
+	<title>CANOTIA: Volume 2</title>
 	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
 	<style type="text/css">
 		.mid-title{ font-weight: bold; margin-top: 20px; margin-bottom: 10px; }

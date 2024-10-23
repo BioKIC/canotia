@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-  <title>Canotia: Instructions for Authors</title>
+  <title>CANOTIA: Instructions for Authors</title>
   <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 </head>
 <body bgcolor="#C0C0C0" text="#000000" link="#FFFFFF" vlink="#FFFFFF" background="images/background.jpg">
@@ -28,7 +28,7 @@
                <p align="center"><font size="3"><b>Instructions for Authors</b><br></font>
                </p>
                <hr>
-               <p align="justify"><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><i>Canotia</i></b> is an Arizona journal that publishes botanical and mycological papers, with a preference
+               <p align="justify"><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><i>CANOTIA</i></b> is an Arizona journal that publishes botanical and mycological papers, with a preference
                for contributions to the Vascular Plants of Arizona (VPA) project, checklists, local floras, new records for Arizona, and ecological studies.  It is suggested,
                however, that authors seek other journals when publishing new species or other works with taxonomic implications.  Publication is open to all persons, and
                published articles are made available to all, free of charge, online in PDF format.  Authors are normally responsible for printing costs (consult with the editor
@@ -41,8 +41,8 @@
                reviewers are considered for all contributions; however, publication in the journal is ultimately at the discretion of the Editor.</font>
                </p>
                <p></p>
-               <p align="justify"><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Authors should refer to the most recent issue of <b><i>Canotia</i></b> as a guide to general formatting.  Contributions
-               for the Vascular Plants of Arizona project should follow the VPA guidelines (see link below), as exemplified in VPA treatments of recent <b><i>Canotia</i></b> issues.  Other
+               <p align="justify"><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Authors should refer to the most recent issue of <b><i>CANOTIA</i></b> as a guide to general formatting.  Contributions
+               for the Vascular Plants of Arizona project should follow the VPA guidelines (see link below), as exemplified in VPA treatments of recent <b><i>CANOTIA</i></b> issues.  Other
                contributions should follow the structure generally found in scientific papers (e.g., Title, Abstract, Introduction, Methods, Results, Discussion, Acknowledgments, Literature Cited),
                when appropriate.</font>
                </p>

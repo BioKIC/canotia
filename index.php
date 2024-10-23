@@ -1,7 +1,7 @@
 <!DOCTYPE HTML >
 <html>
 <head>
-	<title>Canotia a Journal of Arizona Botany and Mycology</title>
+	<title>CANOTIA a Journal of Arizona Botany and Mycology</title>
 	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
 </head>
 <body bgcolor="#C0C0C0" text="#000000" link="#FFFFFF" vlink="#FFFFFF" background="images/background.jpg">
@@ -23,7 +23,7 @@
         <td width="10" bgcolor="#FFFFFF">
         </td>
           <td width="500" bgcolor="#FFFFFF"><br><font size="3">
-           <div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><i>Canotia</i></b>, published by the Arizona State University Vascular Plant Herbarium (ASU),
+           <div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><i>CANOTIA</i></b>, published by the Arizona State University Vascular Plant Herbarium (ASU),
          is a journal devoted to botanical and mycological papers. These may include contributions to the
          Vascular Plants of Arizona (VPA) project, checklists, local floras, new records for Arizona and ecological studies. All
          manuscripts are peer-reviewed by specialists. Acceptance for publication will be at the discretion of the editor. At
@@ -34,7 +34,7 @@
         <p></p>
         <p align="center"><img src="images/C_holo_Specimen.jpg" border="1" /></p>
         <p align="center">
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><i>Canotia</i></b> is named for <i>Canotia holacantha</i> Torr. (<i>Celastraceae</i>), a spiny shrub or small tree nearly endemic to Arizona.</font>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><i>CANOTIA</i></b> is named for <i>Canotia holacantha</i> Torr. (<i>Celastraceae</i>), a spiny shrub or small tree nearly endemic to Arizona.</font>
         <p>&nbsp;&nbsp;</p></td>
         <td width="10" bgcolor="#FFFFFF"></td>
 		<?php include_once('menu_right.php'); ?>

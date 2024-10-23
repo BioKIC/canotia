@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-	<title>Canotia: Volume 16</title>
+	<title>CANOTIA: Volume 16</title>
 	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
 	<link href="css/volumes.css" type="text/css" rel="stylesheet">
 </head>
