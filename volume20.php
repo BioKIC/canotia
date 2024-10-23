@@ -19,14 +19,16 @@
 						<?php include_once('menu_left.php'); ?>
 						<td width="500" bgcolor="#FFFFFF" valign="top">
 							<div class="mid-title">Volume 20</div>
-							<!--
 							<div class="mid-cover">
-								<ul><li><a href="volumes/vol20/Cover_vol19.pdf" target="_blank">Cover</a></li></ul>
+								<ul><li><a href="volumes/vol20/Canotia-v20-cover.pdf" target="_blank">Cover</a></li></ul>
 							</div>
-							-->
 							<div class="mid-section">
 								<div class="mid-vol"><a href="volumes/vol20/Psidium-of-Greater-Antilles-v20.pdf" target="_blank">The Genus Psidium (Myrtaceae) in the Greater Antilles</a></div>
 								<div class="mid-by">by Leslie R. Landrum, Zenia Acosta Ramos, Francisco Jiménez-Rodríguez, &amp; Keron C. St. E. Campbell</div>
+							</div>
+							<div class="mid-section">
+								<div class="mid-vol"><a href="volumes/vol20/Potamogetonaceae-v20.pdf" target="_blank">Potamogetonaceae - Pondweed Family</a></div>
+								<div class="mid-by">by Jon M. Ricketson</div>
 							</div>
 							<div style="height: 5px; background-color: #D0F5C0; margin: 20px 0px">&nbsp;</div>
 						</td>

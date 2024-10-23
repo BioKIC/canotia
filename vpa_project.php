@@ -240,6 +240,9 @@
 										<li><a target="_blank" href="volumes/CANOTIA_2008_Vol4_2_Yatskievych_et_Windham_Equisetaceae.pdf"><i>Equisetaceae</i>
 											- Canotia 4(2): 41-45. 2008. (G. Yatskievych and M.D. Windham)</a>
 										</li>
+										<li>Fabaceae, whole family: See separately published book,
+											<a href="https://shopbritpress.org/products/legumes-of-arizona" target="_blank">Legumes of Arizona: An Illustrated Flora and Reference</a>.
+											2024. (M. M. McMahon, M. B. Johnson, K. N. Lake, M. F. Wojciechowski, and M. W. Bierner)</li>
 										<li><a target="_blank" href="volumes/CANOTIA_2011_Vol7_Rhodes_et_al.pdf">Fabaceae Part One: <i>Errazurizia, Marina, Parryella,</i> and <i>Psorothamnus</i>
 											- Canotia 7: 1-13. 2011. (S. Rhodes, J. Beasley, and T. Ayers; Figs. 12-13)</a></li>
 										<li><a target="_blank" href="vpa_volumes/VPA_JANAS_1994_Vol27_2_Landrum_Fagaceae.pdf"><i>Fagaceae</i>
@@ -342,7 +345,8 @@
 											- JANAS 30(2): 133-136. 1998. (C.N. Horn)</a></li>
 										<li><a target="_blank" href="volumes/CANOTIA_2006_Vol2_1_Blair_et_al_Portulacaceae.pdf"><i>Portulacaceae</i>
 											- Canotia 2(1): 1-22. 2006. (A. Bair, M. Howe, D. Roth, R. Taylor, T. Ayers, and R.W. Kiger)</a></li>
-										<li><span><i>Potamogetonaceae</i></span></li>
+										<li><a target="_blank" href="volumes/vol20/Potamogetonaceae-v20.pdf"><i>Potamogetonaceae</i>
+											- Canotia 20: 56–72. 2024. (J. Ricketson)</a></li>
 										<li><a target="_blank" href="vpa_volumes/VPA_JANAS_1992_Vol26_1_Cholewa_Primulaceae.pdf"><i>Primulaceae</i>
 											- JANAS 26(1): 17-21. 1992. (A.F. Cholewa; Fig. 16)</a></li>
 										<li><a target="_blank" href="volumes/CANOTIA_2007_Vol3_2_Guitierrez_Psilotaceae.pdf"><i>Psilotaceae</i>
