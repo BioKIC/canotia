@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-	<title>Canotia: About the Journal</title>
+	<title>CANOTIA: About the Journal</title>
 	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
 </head>
 <body bgcolor="#C0C0C0" text="#000000" link="#FFFFFF" vlink="#FFFFFF" background="images/background.jpg">
