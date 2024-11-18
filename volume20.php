@@ -30,6 +30,10 @@
 								<div class="mid-vol"><a href="volumes/vol20/Potamogetonaceae-v20.pdf" target="_blank">Potamogetonaceae - Pondweed Family</a></div>
 								<div class="mid-by">by Jon M. Ricketson</div>
 							</div>
+							<div class="mid-section">
+								<div class="mid-vol"><a href="volumes/vol20/Fabaceae-Pub-Annoucement.pdf" target="_blank">Publication announcement: Legumes of Arizona – an Illustrated Flora and Reference</a></div>
+								<div class="mid-by">by M. M. McMahon, M. B. Johnson, K. N. Lake, M. F. Wojciechowski, and M. W. Bierner</div>
+							</div>
 							<div style="height: 5px; background-color: #D0F5C0; margin: 20px 0px">&nbsp;</div>
 						</td>
 						<td width="10" bgcolor="#FFFFFF"></td>
