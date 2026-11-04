@@ -28,12 +28,12 @@
 							<b>Volume 13</b>
 						</div>
 						<div style="padding:5px 0px;background-color:#335423">
-							<ul><li><a href="volumes/CANOTIA_2017_Vol13_Front.pdf" target="_blank">Cover</a></li></ul>
+							<ul><li><a href="volumes/vol13/CANOTIA_2017_Vol13_Front.pdf" target="_blank">Cover</a></li></ul>
 						</div>
 						<div style="margin:20px 0px;padding:5px 0px;background-color:#335423">
 							<ul>
 								<li>
-									<a href="volumes/CANOTIA_2017_Vol13_Landrum_Psidium.pdf" target="_blank" style="color:#FFFFFF;">
+									<a href="volumes/vol13/CANOTIA_2017_Vol13_Landrum_Psidium.pdf" target="_blank" style="color:#FFFFFF;">
 										The Genus Psidium (Myrtaceae) in the State of Bahia, Brazil
 									</a>
 								</li>
@@ -43,7 +43,7 @@
 							</div>
 						</div>
 						<div style="padding:5px 0px;background-color:#335423">
-							<ul><li><a href="volumes/CANOTIA_2017_Vol13_Back.pdf" target="_blank">Back Cover</a></li></ul>
+							<ul><li><a href="volumes/vol13/CANOTIA_2017_Vol13_Back.pdf" target="_blank">Back Cover</a></li></ul>
 						</div>
 					</td>
 					<td width="10" bgcolor="#FFFFFF"></td>

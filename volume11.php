@@ -30,7 +30,7 @@
                   <table width="100%" cellpadding="15">
             <tr>
             <td align="left" valign="center" bgcolor="#335423">
-            <li><a target="_blank" href="/volumes/CANOTIA-11-Front-Cover.pdf">Cover</a></li>
+            <li><a target="_blank" href="volumes/vol11/CANOTIA-v11-Front-Cover.pdf">Cover</a></li>
             </td>
           </tr>
           <tr>
@@ -39,7 +39,7 @@
           </tr>
                     <tr>
             <td align="left" valign="center" bgcolor="#335423">
-            <li><font color="FFFFFF"><a target="_blank" href="/volumes/Carex_of_Arizona-Rink&Licher.pdf">Cyperaceae. Sedge Family. Part 1: Family Desciption, Key to the Genera, and <i>Carex</i> L.</a></font></li>
+            <li><font color="FFFFFF"><a target="_blank" href="volumes/vol11/CANOTIA_v11_Carex_of_Arizona.pdf">Cyperaceae. Sedge Family. Part 1: Family Desciption, Key to the Genera, and <i>Carex</i> L.</a></font></li>
             <br>
             <font color="#FFFFFF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;by Glenn Rink and Max Licher</font>
             </td>
@@ -50,7 +50,7 @@
           </tr>
 		  <tr>
             <td align="left" valign="center" bgcolor="#335423">
-            <li><font color="FFFFFF"><a target="_blank" href="/volumes/Carex-Image-Guide-8-8-15.pdf">Supplement: A Visual Guide to <i>Carex</i> of Arizona<br></a></font>
+            <li><font color="FFFFFF"><a target="_blank" href="volumes/vol11/CANOTIA_v11_Carex-Image-Guide.pdf">Supplement: A Visual Guide to <i>Carex</i> of Arizona<br></a></font>
                                           <br>
             <font color="#FFFFFF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;by Max Licher and Glenn Rink</font></li>
             </td>
@@ -61,7 +61,7 @@
           </tr>
 		  <tr>
             <td align="left" valign="center" bgcolor="#335423">
-            <li><a target="_blank" href="/volumes/Canotia-11-Back-Cover-1.pdf">Back Cover</a></li>
+            <li><a target="_blank" href="volumes/vol11/CANOTIA-v11-Back-Cover.pdf">Back Cover</a></li>
             </td>
           </tr>
           </table>

@@ -28,12 +28,12 @@
 								<b>Volume 12</b>
 							</div>
 							<div style="padding:5px 0px;background-color:#335423">
-								<ul><li><a href="volumes/Canotia12-Front-Cover.pdf" target="_blank">Cover</a></li></ul>
+								<ul><li><a href="volumes/vol12/Canotia12-Front-Cover.pdf" target="_blank">Cover</a></li></ul>
 							</div>
 							<div style="margin:20px 0px;padding:5px 0px;background-color:#335423">
 								<ul>
 									<li>
-										<a href="volumes/Canotia12-Editorial-LRLandrum-Governance-ICN.pdf" target="_blank" style="color:#FFFFFF;">
+										<a href="volumes/vol12/Canotia12-Editorial-LRLandrum-Governance-ICN.pdf" target="_blank" style="color:#FFFFFF;">
 											Editorial: The Governance of the International Code of Nomenclature - My Slow Learning Experience.
 										</a>
 									</li>
@@ -45,7 +45,7 @@
 							<div style="margin:20px 0px;padding:5px 0px;background-color:#335423">
 								<ul>
 									<li>
-										<a href="volumes/Canotia12-Phrymaceae-Ayers-et-al.pdf" target="_blank" style="color:#FFFFFF;">
+										<a href="volumes/vol12/Canotia12-Phrymaceae-Ayers-et-al.pdf" target="_blank" style="color:#FFFFFF;">
 											Vascular Plants of Arizona: Phrymaceae
 										</a>
 									</li>
@@ -57,7 +57,7 @@
 							<div style="margin:20px 0px;padding:5px 0px;background-color:#335423">
 								<ul>
 									<li>
-										<a href="volumes/Canotia12-Acanthaceae-Daniel-8-13-16.pdf" target="_blank" style="color:#FFFFFF;">
+										<a href="volumes/vol12/Canotia12-Acanthaceae-Daniel-8-13-16.pdf" target="_blank" style="color:#FFFFFF;">
 											Vascular Plants of Arizona: Acanthaceae
 										</a>
 									</li>
@@ -69,7 +69,7 @@
 							<div style="margin:20px 0px;padding:5px 0px;background-color:#335423">
 								<ul>
 									<li>
-										<a href="volumes/Canotia12-Cucurbitaceae-Butterwick-8-13-16.pdf" target="_blank" style="color:#FFFFFF;">
+										<a href="volumes/vol12/Canotia12-Cucurbitaceae-Butterwick-8-13-16.pdf" target="_blank" style="color:#FFFFFF;">
 											Vascular Plants of Arizona: Cucurbitaceae
 										</a>
 									</li>
@@ -81,7 +81,7 @@
 							<div style="margin:20px 0px;padding:5px 0px;background-color:#335423">
 								<ul>
 									<li>
-										<a href="volumes/Canotia12-NewRecords-Darrow-Makings8-13-16.pdf" target="_blank" style="color:#FFFFFF;">
+										<a href="volumes/vol12/Canotia12-NewRecords-Darrow-Makings8-13-16.pdf" target="_blank" style="color:#FFFFFF;">
 											New Records for the Flora of Arizona
 										</a>
 									</li>
@@ -91,7 +91,7 @@
 								</div>
 							</div>
 							<div style="padding:5px 0px;background-color:#335423">
-								<ul><li><a href="volumes/Canotia12-Back-Cover.pdf" target="_blank">Back Cover</a></li></ul>
+								<ul><li><a href="volumes/vol12/Canotia12-Back-Cover.pdf" target="_blank">Back Cover</a></li></ul>
 							</div>
 						</td>
 						<td width="10" bgcolor="#FFFFFF"></td>

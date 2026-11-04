@@ -30,7 +30,7 @@
                   <table width="100%" cellpadding="15">
             <tr>
             <td align="left" valign="center" bgcolor="#335423">
-            <li><a target="_blank" href="/volumes/Canotia_9-Cover.pdf">Cover</a></li>
+            <li><a target="_blank" href="volumes/Canotia_9-Cover.pdf">Cover</a></li>
             </td>
           </tr>
           <tr>
@@ -39,7 +39,7 @@
           </tr>
                     <tr>
             <td align="left" valign="center" bgcolor="#335423">
-            <li><font color="FFFFFF"><a target="_blank" href="/volumes/Canotia_9_Physalis_and_Quincula-FINAL.pdf">Vascular Plants of Arizona: Solanaceae Part Four: <i>Physalis</i> L. and <i>Quincula</i> Raf.<br></a></font>
+            <li><font color="FFFFFF"><a target="_blank" href="volumes/Canotia_9_Physalis_and_Quincula-FINAL.pdf">Vascular Plants of Arizona: Solanaceae Part Four: <i>Physalis</i> L. and <i>Quincula</i> Raf.<br></a></font>
                                           <br>
             <font color="#FFFFFF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;by Leslie R. Landrum, Anne Barber, Kara Barron, Francis S. Coburn, Kimberly Sanderford, and Danika Setaro</font></li>
             </td>
@@ -50,7 +50,7 @@
           </tr>
                     <tr>
             <td align="left" valign="center" bgcolor="#335423">
-            <li><font color="FFFFFF"><a target="_blank" href="/volumes/Canotia_9-Chamaesaracha-FINAL.pdf">Vascular Plants of Arizona: Solanaceae Part Five: <i>Chamaesaracha</i> (A. Gray) Benth.<br></a></font>
+            <li><font color="FFFFFF"><a target="_blank" href="volumes/Canotia_9-Chamaesaracha-FINAL.pdf">Vascular Plants of Arizona: Solanaceae Part Five: <i>Chamaesaracha</i> (A. Gray) Benth.<br></a></font>
                                           <br>
             <font color="#FFFFFF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;by Erin Manton</font></li>
             </td>
@@ -61,7 +61,7 @@
           </tr>
           <tr>
             <td align="left" valign="center" bgcolor="#335423">
-            <li><font color="FFFFFF"><a target="_blank" href="/volumes/Canotia_9-Thamnosma.pdf"><i>Thamnosma texana</i>, a Chihuahuan Desert Species, Disjunct in the Hualapai Mountains, Mohave County, Arizona<br></a></font>
+            <li><font color="FFFFFF"><a target="_blank" href="volumes/Canotia_9-Thamnosma.pdf"><i>Thamnosma texana</i>, a Chihuahuan Desert Species, Disjunct in the Hualapai Mountains, Mohave County, Arizona<br></a></font>
                                           <br>
             <font color="#FFFFFF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;by John L. Anderson and Cristina Francois</font></li>
             </td>
@@ -72,7 +72,7 @@
           </tr>
 		  <tr>
             <td align="left" valign="center" bgcolor="#335423">
-            <li><font color="FFFFFF"><a target="_blank" href="/volumes/Canotia_9-Spur_Cross_Flora.pdf">A Vascular Plant Inventory of the Spur Cross Ranch Conservation Area, Maricopa County, Arizona<br></a></font>
+            <li><font color="FFFFFF"><a target="_blank" href="volumes/Canotia_9-Spur_Cross_Flora.pdf">A Vascular Plant Inventory of the Spur Cross Ranch Conservation Area, Maricopa County, Arizona<br></a></font>
                                           <br>
             <font color="#FFFFFF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;by Sarah Hunkins and Kevin Smith</font></li>
             </td>

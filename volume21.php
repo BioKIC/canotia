@@ -25,19 +25,19 @@
 							</div>
 							<div class="mid-cover">
 								<div class="mid-vol" style="color: white">
-									<a href="volumes/vol21/Canotia-v21-cover.pdf" target="_blank"><b>Cover</b></a>. Including a Table of Contents
+									<a href="volumes/vol21/CANOTIA_v21_cover.pdf" target="_blank"><b>Cover</b></a>. Including a Table of Contents
 								</div>
 							</div>
 							<div class="mid-section" style="color: white">
 								<div class="mid-vol">
-									<div><a href="volumes/vol21/PsidiumMonograph-part1.pdf" target="_blank"><b>Part 1</b></a>. Text including Introduction, Important Characteristics,</div>
+									<div><a href="volumes/vol21/CANOTIA_v21_PsidiumMonograph-part1.pdf" target="_blank"><b>Part 1</b></a>. Text including Introduction, Important Characteristics,</div>
 									<div style="margin-left: 20px">Keys, Species Treatments, Literature Cited, and</div>
 									<div style="margin-left: 20px">Tables 1–7.............................................................pages 1–211</div>
 								</div>
 							</div>
 							<div class="mid-section" style="color: white">
 								<div class="mid-vol">
-									<div><a href="volumes/vol21/PsidiumMonograph-part2.pdf" target="_blank"><b>Part 2</b></a>.
+									<div><a href="volumes/vol21/CANOTIA_v21_PsidiumMonograph-part2.pdf" target="_blank"><b>Part 2</b></a>.
 									Species illustrations and maps..................pages 212-280</div>
 								</div>
 							</div>

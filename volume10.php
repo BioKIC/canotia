@@ -30,7 +30,7 @@
                   <table width="100%" cellpadding="15">
             <tr>
             <td align="left" valign="center" bgcolor="#335423">
-            <li><a target="_blank" href="/volumes/CANOTIA-10-front_cover.pdf">Cover</a></li>
+            <li><a target="_blank" href="volumes/vol10/CANOTIA-v10-front_cover.pdf">Cover</a></li>
             </td>
           </tr>
           <tr>
@@ -39,7 +39,7 @@
           </tr>
                     <tr>
             <td align="left" valign="center" bgcolor="#335423">
-            <li><font color="FFFFFF"><a target="_blank" href="/volumes/Vegetation_and_flora_of_the_McDowell_Sonoran_Preserve.pdf">Vegetation and flora of the McDowell Sonoran Preserve</a></font></li>
+            <li><font color="FFFFFF"><a target="_blank" href="volumes/vol10/CANOTIA_v10_McDowell_Sonoran_Preserve.pdf">Vegetation and flora of the McDowell Sonoran Preserve</a></font></li>
             <br>
             <font color="#FFFFFF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;by Steve Jones and Chelsey Hull</font>
             </td>
@@ -50,7 +50,7 @@
           </tr>
 		  <tr>
             <td align="left" valign="center" bgcolor="#335423">
-            <li><font color="FFFFFF"><a target="_blank" href="/volumes/Canotia-10-New-Records-Flora-AZ-Final-lrl.pdf">New Records for the Flora of Arizona<br></a></font>
+            <li><font color="FFFFFF"><a target="_blank" href="volumes/vol10/CANOTIA-v10-New-Records.pdf">New Records for the Flora of Arizona<br></a></font>
                                           <br>
             <font color="#FFFFFF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;by Walter Fertig</font></li>
             </td>
@@ -61,7 +61,7 @@
           </tr>
 		  <tr>
             <td align="left" valign="center" bgcolor="#335423">
-            <li><a target="_blank" href="/volumes/Canotia-10-back_cover.pdf">Back Cover</a></li>
+            <li><a target="_blank" href="volumes/vol10/CANOTIA-v10-back_cover.pdf">Back Cover</a></li>
             </td>
           </tr>
           </table>
