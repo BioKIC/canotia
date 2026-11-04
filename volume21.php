@@ -25,7 +25,7 @@
 							</div>
 							<div class="mid-cover">
 								<div class="mid-vol" style="color: white">
-									<a href="volumes/vol21/CANOTIA_v21_cover.pdf" target="_blank"><b>Cover</b></a>. Including a Table of Contents
+									<a href="volumes/vol21/CANOTIA_v21-cover.pdf" target="_blank"><b>Cover</b></a>. Including a Table of Contents
 								</div>
 							</div>
 							<div class="mid-section" style="color: white">
