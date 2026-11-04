@@ -20,7 +20,7 @@
 						<td width="500" bgcolor="#FFFFFF" valign="top">
 							<div class="mid-title">Volume 22</div>
 							<div class="mid-cover">
-								<ul><li><a href="volumes/vol22/" target="_blank">Cover - pending</a></li></ul>
+								<ul><li><a href="" target="_blank">Cover - pending</a></li></ul>
 							</div>
 							<div class="mid-section">
 								<div class="mid-vol"><a href="volumes/vol22/CANOTIA_v22_Canotia_2026-11-04.pdf" target="_blank"><i>Canotia</i> Torr. ex A. Gray: History, Geography, and Etymology</a></div>
