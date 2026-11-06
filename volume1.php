@@ -25,21 +25,21 @@
 						<td width="500" bgcolor="#FFFFFF" valign="top">
 							<div class="mid-title">Volume 1, issue 1</div>
 							<div class="mid-section">
-								<ul><li><a target="_blank" href="volumes/CANOTIA_2005_Vol1_1_Cover.pdf">Cover</a></li></ul>
+								<ul><li><a target="_blank" href="volumes/vol01/CANOTIA_v1_Cover.pdf">Cover</a></li></ul>
 							</div>
 							<div class="mid-section">
-								<ul><li><a target="_blank" href="volumes/CANOTIA_2005_Vol1_1_Index_to_Families_VPA.pdf">Index to the Families of the Vascular Plants of Arizona</a></li></ul>
+								<ul><li><a target="_blank" href="volumes/vol01/CANOTIA_v1_Index_to_Families_VPA.pdf">Index to the Families of the Vascular Plants of Arizona</a></li></ul>
 							</div>
 							<div class="mid-section">
-								<ul><li><a target="_blank" href="volumes/CANOTIA_2005_Vol1_1_Landrum_et_VPA.pdf">A New Journal, Canotia</a></li></ul>
+								<ul><li><a target="_blank" href="volumes/vol01/CANOTIA_v1_Landrum_et_VPA.pdf">A New Journal, Canotia</a></li></ul>
 								<div class="mid-by">by Les Landrum</div>
 							</div>
 							<div class="mid-section">
-								<ul><li><a target="_blank" href="volumes/CANOTIA_2005_Vol1_1_Landrum_et_VPA.pdf">A New Flora For Arizona in Preparation</a></li></ul>
+								<ul><li><a target="_blank" href="volumes/vol01/CANOTIA_v1_Landrum_et_VPA.pdf">A New Flora For Arizona in Preparation</a></li></ul>
 								<div class="mid-by">by Vascular Plants of Arizona Editorial Committee</div>
 							</div>
 							<div class="mid-section">
-								<ul><li><a target="_blank" href="volumes/CANOTIA_2005_Vol1_1_Wilken_et_Porter_Polemoniaceae.pdf">Vascular Plants of Arizona: Polemoniaceae</a></li></ul>
+								<ul><li><a target="_blank" href="volumes/vol01/CANOTIA_v1_Wilken_et_Porter_Polemoniaceae.pdf">Vascular Plants of Arizona: Polemoniaceae</a></li></ul>
 								<div class="mid-by">by Dieter H. Wilken and J. Mark Porter</div>
 							</div>
 						</td>
