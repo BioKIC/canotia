@@ -31,11 +31,11 @@
 								<ul><li><a target="_blank" href="volumes/vol01/CANOTIA_v1_Index_to_Families_VPA.pdf">Index to the Families of the Vascular Plants of Arizona</a></li></ul>
 							</div>
 							<div class="mid-section">
-								<ul><li><a target="_blank" href="volumes/vol01/CANOTIA_v1_Landrum_et_VPA.pdf">A New Journal, Canotia</a></li></ul>
+								<ul><li><a target="_blank" href="volumes/vol01/CANOTIA_v1_New_Journal.pdf">A New Journal, Canotia</a></li></ul>
 								<div class="mid-by">by Les Landrum</div>
 							</div>
 							<div class="mid-section">
-								<ul><li><a target="_blank" href="volumes/vol01/CANOTIA_v1_Landrum_et_VPA.pdf">A New Flora For Arizona in Preparation</a></li></ul>
+								<ul><li><a target="_blank" href="volumes/vol01/CANOTIA_v1_New_Flora.pdf">A New Flora For Arizona in Preparation</a></li></ul>
 								<div class="mid-by">by Vascular Plants of Arizona Editorial Committee</div>
 							</div>
 							<div class="mid-section">
