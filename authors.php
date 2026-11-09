@@ -64,7 +64,7 @@
                      <td>
                      <p align="center">
                      <font size="3">
-                     <a target="_blank" href="https://www.aipni.org/ipni_press.html">http://www.ipni.org/ipni_press.html</a>
+                     <a target="_blank" href="https://www.aipni.org/ipni_press.html">https://www.ipni.org/ipni_press.html</a>
                      </font>
                      </p>
                      </td>
