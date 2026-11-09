@@ -82,7 +82,7 @@
 									VASCULAR PLANTS OF ARIZONA EDITORIAL COMMITTEE. 1992+. Vascular
 									Plants of Arizona. <i>Journal of the Arizona-Nevada Academy of
 									Science</i> and <i>CANOTIA</i> (all contributions are
-									available at http://www.canotia.org/ vpa_project.html).
+									available at https://canotia.org/vpa_project.php).
 								</div>
 								<div style="text-align:center;font-size:16px;margin-top:15px">
 									<b><i>or</i></b>

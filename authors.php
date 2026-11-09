@@ -52,7 +52,7 @@
                Photoshop layers and submitted as a PSD file.  Otherwise submit 2 copies of each figure - one with and one without scale bars and labels. Color images incur
                additional printing costs (please coordinate with the editor), but can be included in the online PDF version of the publication free of charge.  Preparation of distribution maps
                is normally not the responsibility of the editors; authors can generate these (see link to instructions below) using the collection search mapping function
-               available online through the Southwest Environmental Information Network website (SEINET; http://swbiodiversity.org/seinet/).</font>
+               available online through the Southwest Environmental Information Network website (SEINET; https://swbiodiversity.org).</font>
                </p>
                <p></p>
                <p align="justify"><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Taxonomic authorities may be written out or abbreviated according to the standard abbreviations suggested by the International
@@ -64,7 +64,7 @@
                      <td>
                      <p align="center">
                      <font size="3">
-                     <a target="_blank" href="http://www.ipni.org/ipni_press.html">http://www.ipni.org/ipni_press.html</a>
+                     <a target="_blank" href="https://www.aipni.org/ipni_press.html">http://www.ipni.org/ipni_press.html</a>
                      </font>
                      </p>
                      </td>
@@ -77,7 +77,7 @@
                      <td>
                      <p align="center">
                      <font size="3">
-                     <a target="_blank" href="http://www.indexfungorum.org/Names/AuthorsOfFungalNames.asp">http://www.indexfungorum.org/Names/AuthorsOfFungalNames.asp</a>
+                     <a target="_blank" href="https://www.indexfungorum.org/Names/AuthorsOfFungalNames.asp">https://www.indexfungorum.org/Names/AuthorsOfFungalNames.asp</a>
                      </font>
                      </p>
                      </td>
@@ -119,7 +119,7 @@
                </p>
                <p align="justify"><font size="3">FARR, D. F., A. Y. ROSSMAN, M. E. PALM and E. B. McCRAY. 2007.<br>Fungal Databases, Systematic Mycology and Microbiology Laboratory, ARS,<br>USDA. http://nt.arsgrin.gov/fungaldatabases/. Accessed July 2007.</font>
              </p>
-               <p align="justify"><font size="3">SOUTHWEST ENVIRONMENTAL INFORMATION NETWORK. 2009.<br>SEINet. http://swbiodiversity.org/seinet/index.php. Accessed February 2009.</font>
+               <p align="justify"><font size="3">SOUTHWEST ENVIRONMENTAL INFORMATION NETWORK. 2009.<br>SEINet. https://swbiodiversity.org. Accessed February 2009.</font>
              </p>
                <hr><br>
              <table width="100%" cellpadding="5"><!--tab 5-->
