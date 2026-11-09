@@ -1,8 +1,13 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-  <title>CANOTIA: Instructions for Authors</title>
-  <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+	<title>CANOTIA: Instructions for Authors</title>
+	<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+	<style>
+		.main-content-area a {
+			color: #1a0dab;
+		}
+	</style>
 </head>
 <body bgcolor="#C0C0C0" text="#000000" link="#FFFFFF" vlink="#FFFFFF" background="images/background.jpg">
 <table border="0" cellpadding="5" style="width: 1200px; background-color: #D0F5C0; margin-left: auto; margin-right: auto;">
@@ -24,6 +29,7 @@
           <td width="10" bgcolor="#FFFFFF"><!--col 1.3 tab 4-->
           </td><!--close col 1.3 tab 4-->
           <td td width="500" bgcolor="#FFFFFF"><!--col 1.4 tab 4-->
+          	<div class="main-content-area">
                <br>
                <p align="center"><font size="3"><b>Instructions for Authors</b><br></font>
                </p>
@@ -130,6 +136,7 @@
                  </tr><!--close row 1 tab 5-->
              </table><!--close tab 5-->
              <br>
+             </div>
           </td><!--close col 1.4 tab 4-->
           <td width="10" bgcolor="#FFFFFF"><!--col 1.5 tab 4-->
           </td><!--close col 1.5 tab 4-->
