@@ -124,7 +124,7 @@
 											Key to Families of Vascular Plants in Arizona - JANAS 35(2): 88-136. 2003. (D.J. Keil)</a>
 										</li>
 										<li>
-											<a href="volumes/Canotia12-Acanthaceae-Daniel-8-13-16.pdf" target="_blank"><i>Acanthaceae
+											<a href="volumes/vol12/Canotia_v12-Acanthaceae-Daniel.pdf" target="_blank"><i>Acanthaceae
 											- </i>CANOTIA 12: 22-54. 2016. (T. Daniel)</a>
 										</li>
 										<li>
@@ -212,14 +212,14 @@
 											- JANAS 27(2): 190-194. 1994. (R. Moran)</a></li>
 										<li><a target="_blank" href="vpa_volumes/VPA_JANAS_1992_Vol26_1_Mason_Crossosomataceae.pdf"><i>Crossosomataceae</i>
 											- JANAS 26(1): 7-9. 1992. (C. Mason)</a></li>
-										<li><a target="_blank" href="volumes/Canotia12-Cucurbitaceae-Butterwick-8-13-16.pdf"><i>Cucurbitaceae</i>
+										<li><a target="_blank" href="volumes/vol12/Canotia_v12-Cucurbitaceae-Butterwick.pdf"><i>Cucurbitaceae</i>
 											- CANOTIA 12: 55-85. 2016. (M. Butterwick)</a></li>
 										<li><a target="_blank" href="vpa_volumes/VPA_JANAS_1994_Vol27_2_Bartel_Cupressaceae.pdf"><i>Cupressaceae</i> - JANAS 27(2): 195-200. 1994. (J. Bartel)</a></li>
 										<li><span><i>Cuscutaceae</i></span></li>
-										<li><a target="_blank" href="volumes/Carex_of_Arizona-Rink&amp;Licher.pdf"><i>Cyperaceae</i>
+										<li><a target="_blank" href="volumes/vol11/CANOTIA_v11_Carex_of_Arizona.pdf"><i>Cyperaceae</i>
 											Part One: Key to the Genera and <i>Carex</i>. CANOTIA 11(1):1. 2015. (G. Rink and M. Licher)</a>
 										</li>
-										<li><a target="_blank" href="volumes/Carex-Image-Guide-8-8-15.pdf"><i>Cyperaceae</i>
+										<li><a target="_blank" href="volumes/vol11/CANOTIA_v11_Carex-Image-Guide.pdf"><i>Cyperaceae</i>
 											Part One Supplement: A Visual Guide to <i>Carex</i> of Arizona. CANOTIA 11(1):1. 2015. (M. Licher and G. Rink)</a>
 										</li>
 										<li><a target="_blank" href="volumes/CANOTIA_2008_Vol4_2_Yatskievych_et_Windham_Dennstaedtiaceae.pdf"><i>Dennstaedtiaceae</i>
@@ -322,7 +322,7 @@
 											- JANAS 30(2): 120-132. 1998. (G.B. Ownbey with contributions by J.W. Brasher and C. Clark)</a></li>
 										<li><a target="_blank" href="vpa_volumes/VPA_JANAS_2001_Vol33_1_MacDougal_Passifloraceae.pdf"><i>Passifloraceae</i>
 											- JANAS 33(1): 41-45. 2001. (J.M. MacDougal)</a></li>
-										<li><a href="volumes/Canotia12-Phrymaceae-Ayers-et-al.pdf">Phrymaceae - CANOTIA 12: 1-21. 2016. (K. Hansen, E. Johnson, K.O.
+										<li><a target="_blank" href="volumes/vol12/Canotia_v12-Phrymaceae-Ayers-et-al.pdf">Phrymaceae - CANOTIA 12: 1-21. 2016. (K. Hansen, E. Johnson, K.O.
 											Phillips, J. Talboom and T. Ayers) </a></li>
 										<li><a target="_blank" href="vpa_volumes/VPA_JANAS_2001_Vol33_1_Steinmann_Phytolaccaceae.pdf"><i>Phytolaccaceae</i>
 											- JANAS 33(1): 46-49. 2001. (V. Steinmann)</a></li>
@@ -382,7 +382,7 @@
 										<li><a target="_blank" href="vpa_volumes/VPA_JANAS_1992_Vol26_1_Elvander_Saxifragaceae.pdf"><i>Saxifragaceae</i>
 											- JANAS 26(1): 36-41. 1992. (P. Elvander; Fig. 16)</a></li>
 										<li><a href="volumes/vol14/Canotia14-7_Scrophulariaceae.pdf" target="_blank"><i>Scrophulariaceae</i> - CANOTIA 14: 42-53. 2018. (R. Crawford, K. Noonan, and T. Ayers; Fig. 17)</a>
-											<span>(see also <a href="volumes/Canotia12-Phrymaceae-Ayers-et-al.pdf" target="_blank">Phrymaceae</a>)</span></li>
+											<span>(see also <a href="volumes/vol12/Canotia_v12-Phrymaceae-Ayers-et-al.pdf" target="_blank">Phrymaceae</a>)</span></li>
 										<li><a href="volumes/CANOTIA_2009_Vol5_1_Yatskievych_et_Windham_Selaginellaceae.pdf" target="_blank"><i>Selaginellaceae</i>
 											- CANOTIA 5(1): 39-48. 2009. (G. Yatskievych and M.D. Windham)</a></li>
 										<li><a target="_blank" href="vpa_volumes/VPA_JANAS_1999_Vol32_1_Brasher_Simaroubaceae.pdf"><i>Simaroubaceae</i>
