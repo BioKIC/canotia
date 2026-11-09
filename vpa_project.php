@@ -335,7 +335,7 @@
 											- JANAS 27(2): 238. 1994. (J.E. LaFerriere)</a></li>
 										<li><span><i>Plumbaginaceae</i></span></li>
 										<li><span><i>Poaceae</i> - (Fig. 20)</span></li>
-										<li><a target="_blank" href="volumes/CANOTIA_2005_Vol1_1_Wilken_et_Porter_Polemoniaceae.pdf"><i>Polemoniaceae</i>
+										<li><a target="_blank" href="volumes/vol01/CANOTIA_v1_Wilken_et_Porter_Polemoniaceae.pdf"><i>Polemoniaceae</i>
 											- CANOTIA 1: 1-37. 2005. (D. Wilken and M. Porter)</a></li>
 										<li><span><i>Polygalaceae</i></span></li>
 										<li><span><i>Polygonaceae</i> - (Fig. 15)</span></li>

@@ -29,8 +29,7 @@
                   P. O. Box 874501<br>
           School of Life Sciences, Arizona State University<br>
           Tempe, AZ 85287-4501<br>
-                  les.landrum@asu.edu<br><br><br>
-                  Production Editor/Webmaster: <b>Shannon C. Doan</b><br>
+                  <a href="mailto:les.landrum@asu.edu">les.landrum@asu.edu</a><br><br><br>
                   College of Letters and Sciences<br>
           Arizona State University - Polytechnic Campus<br>
             7001 E. Williams Field Road</font><font size="3"><br>

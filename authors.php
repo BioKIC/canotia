@@ -35,7 +35,7 @@
                for estimates).</font>
                </p>
                <p></p>
-               <p align="justify"><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Manuscripts should be submitted to the editor (L. R. Landrum, les.landrum@asu.edu) and should include suggestions
+               <p align="justify"><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Manuscripts should be submitted to the editor (L. R. Landrum, <a href="mailto:les.landrum@asu.edu">les.landrum@asu.edu</a>) and should include suggestions
                for possible reviewers, their email addresses, as well as the email address of the corresponding author.  The authors will receive acknowledgment via email within a
                few days of submitting, and authors should assume that the manuscript has not reached the editor if the acknowledgment is not soon received.  Recommendations of peer
                reviewers are considered for all contributions; however, publication in the journal is ultimately at the discretion of the Editor.</font>
